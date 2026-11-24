@@ -1,6 +1,6 @@
 # Hi, I'm Sherl
 
-CS enthusiast working toward **Agent full-stack engineering** — from LLM protocols & tool calling to UI & deployment. Currently learning Agent architecture by reading real-world agent codebases.
+CS enthusiast focused on **LLM applications**, **RAG systems** and **model training**, currently digging into Agent architecture.
 
 ## Tech Stack
 
