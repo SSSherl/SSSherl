@@ -1,6 +1,6 @@
 # Hi, I'm Sherl
 
-CS enthusiast focused on **LLM applications**, **RAG systems** and **model training**, currently digging into Agent architecture.
+CS enthusiast focused on **Agent Engineering**, **LLM applications**, **RAG systems** and **model training**, currently digging into Agent architecture.
 
 ## Tech Stack
 
@@ -23,8 +23,8 @@ CS enthusiast focused on **LLM applications**, **RAG systems** and **model train
 
 ## Blog
 
-写作与笔记沉淀在我的博客：**[sssherl.github.io](https://sssherl.github.io)**
+我的博客：**[sssherl.github.io](https://sssherl.github.io)**
 
 ---
 
-<p align="center"><i>持续学习，持续构建。</i></p>
+<p align="center"><i>好想退休。</i></p>
